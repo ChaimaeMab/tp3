@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camera",
+      "price": 2000,
+      "promo": false,
+      "stars": 4,
+      "image": "imgs/1.jpeg",
+      "description": "Camera Camera Camera Camera Camera Camera Camera Camera Camera "
+    },
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 6200,
+      "promo": true,
+      "stars": 5,
+      "image": "imgs/2.jpeg",
+      "description": "Computer Computer Computer Computer Computer Computer Computer "
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 200,
+      "promo": false,
+      "stars": 3,
+      "image": "imgs/3.jpeg",
+      "description": "Mouse Mouse Mouse Mouse Mouse Mouse Mouse Mouse "
+    }
+  ]
+}
